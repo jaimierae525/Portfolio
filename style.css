@@ -1,3 +1,9 @@
+body {
+  background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/049/340/original/wengang-zhai-MJ_0PxIuquI-unsplash.jpg?1666205541);
+  margin: 60px auto;
+  max-width: 700px;
+  text-decoration: rgb(0, 0, 0);
+}
 :root {
   --primary-color: #6c63ff;
   --secondary-color: #f5f2fe;
